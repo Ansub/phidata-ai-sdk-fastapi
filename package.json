@@ -1,5 +1,5 @@
 {
-  "name": "next-fastapi",
+  "name": "phidata-ai-sdk-fastapi",
   "version": "0.0.0",
   "private": true,
   "scripts": {
